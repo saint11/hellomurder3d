@@ -7,7 +7,10 @@ namespace HelloMurder.Editor
         [STAThread]
         static void Main()
         {
-            using (var editor = new Architect(new HelloMurderArchitect()))
+            var game = new HelloMurderArchitect();
+            var dataManager = new HelloMurderDataManager(game);
+
+            using (var editor = new Architect(game, dataManager))
             {
                 editor.Run();
             }

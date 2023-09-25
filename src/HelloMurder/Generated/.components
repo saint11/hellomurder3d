@@ -1,20 +1,25 @@
 {
   "Namespace": "HelloMurder",
   "ComponentsMap": {
-    "Player": {
+    "Mesh": {
       "Index": 135,
+      "Name": "Mesh",
+      "Type": "HelloMurder.Components.MeshComponent, HelloMurder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    },
+    "Player": {
+      "Index": 136,
       "Name": "Player",
       "Type": "HelloMurder.Components.PlayerComponent, HelloMurder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
     }
   },
   "MessagesMap": {
     "AgentInput": {
-      "Index": 136,
+      "Index": 137,
       "Name": "AgentInput",
       "Type": "HelloMurder.Messages.AgentInputMessage, HelloMurder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
     },
     "AgentReleaseInput": {
-      "Index": 137,
+      "Index": 138,
       "Name": "AgentReleaseInput",
       "Type": "HelloMurder.Messages.AgentReleaseInputMessage, HelloMurder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
     }
@@ -1615,18 +1620,23 @@
   "Components": [
     {
       "Index": 135,
+      "Name": "Mesh",
+      "Type": "HelloMurder.Components.MeshComponent, HelloMurder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+    },
+    {
+      "Index": 136,
       "Name": "Player",
       "Type": "HelloMurder.Components.PlayerComponent, HelloMurder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
     }
   ],
   "Messages": [
     {
-      "Index": 136,
+      "Index": 137,
       "Name": "AgentInput",
       "Type": "HelloMurder.Messages.AgentInputMessage, HelloMurder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
     },
     {
-      "Index": 137,
+      "Index": 138,
       "Name": "AgentReleaseInput",
       "Type": "HelloMurder.Messages.AgentReleaseInputMessage, HelloMurder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
     }

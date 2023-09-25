@@ -2,5 +2,7 @@
 
 namespace HelloMurder.Editor
 {
-    public class HelloMurderArchitect : HelloMurderGame, IMurderArchitect { }
+    public class HelloMurderArchitect : HelloMurderGame, IMurderArchitect
+    {
+    }
 }

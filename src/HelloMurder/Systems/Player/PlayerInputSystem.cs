@@ -38,7 +38,7 @@ namespace HelloMurder.Systems
             foreach (Entity entity in context.Entities)
             {
                 PlayerComponent player = entity.GetComponent<PlayerComponent>();
-
+                
                 bool moved = _cachedInputAxis.HasValue();
                 
                 if (_interacted)

@@ -4,7 +4,13 @@
   "Order": 1,
   "_systems": {
     "$type": "System.Collections.Immutable.ImmutableArray`1[[System.ValueTuple`2[[System.Type, System.Private.CoreLib],[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib]], System.Collections.Immutable",
-    "$values": []
+    "$values": [
+      {
+        "$type": "System.ValueTuple`2[[System.Type, System.Private.CoreLib],[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib",
+        "Item1": "HelloMurder.Systems.ObjRenderSystem, HelloMurder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "Item2": true
+      }
+    ]
   },
   "_features": {
     "$type": "System.Collections.Immutable.ImmutableArray`1[[System.ValueTuple`2[[System.Guid, System.Private.CoreLib],[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib]], System.Collections.Immutable",
@@ -22,7 +28,8 @@
       "$type": "System.Collections.Immutable.ImmutableArray`1[[System.Guid, System.Private.CoreLib]], System.Collections.Immutable",
       "$values": [
         "5d34f9a7-91d0-4142-82eb-9e1393c88297",
-        "220b08d1-2193-4cfa-800f-8582eba2c0df"
+        "220b08d1-2193-4cfa-800f-8582eba2c0df",
+        "071c5ad8-5036-4d24-96cf-a28b47ad908f"
       ]
     }
   },
@@ -647,12 +654,35 @@
       "ActivateWithParent": false,
       "_guid": "ad4db301-6039-4d5d-ad89-28c5cd5f03ba",
       "_name": "Camera man"
+    },
+    "071c5ad8-5036-4d24-96cf-a28b47ad908f": {
+      "$type": "Murder.Prefabs.EntityInstance, Murder",
+      "_guid": "071c5ad8-5036-4d24-96cf-a28b47ad908f",
+      "_name": "Instance",
+      "_components": {
+        "$type": "System.Collections.Generic.Dictionary`2[[System.Type, System.Private.CoreLib],[Bang.Components.IComponent, Bang]], System.Private.CoreLib",
+        "Murder.Components.PositionComponent, Murder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": {
+          "$type": "Murder.Components.PositionComponent, Murder",
+          "_x": 165.0,
+          "_y": 49.0
+        },
+        "HelloMurder.Components.MeshComponent, HelloMurder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": {
+          "$type": "HelloMurder.Components.MeshComponent, HelloMurder",
+          "Model": {
+            "$type": "Murder.Utilities.AssetRef`1[[HelloMurder.Assets.ModelAsset, HelloMurder]], Murder",
+            "Guid": "53d35ce2-9320-29e5-0339-42d245f61055"
+          }
+        }
+      },
+      "IsDeactivated": false,
+      "ActivateWithParent": false
     }
   },
   "_entitiesToFolder": {
     "$type": "System.Collections.Generic.Dictionary`2[[System.Guid, System.Private.CoreLib],[System.String, System.Private.CoreLib]], System.Private.CoreLib",
     "5d34f9a7-91d0-4142-82eb-9e1393c88297": "Room",
-    "220b08d1-2193-4cfa-800f-8582eba2c0df": "Room"
+    "220b08d1-2193-4cfa-800f-8582eba2c0df": "Room",
+    "071c5ad8-5036-4d24-96cf-a28b47ad908f": "Room"
   },
   "Name": "Hello World",
   "Guid": "3bd26720-c3b1-44c1-b7c3-192d5656cc37"
