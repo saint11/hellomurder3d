@@ -2,7 +2,9 @@
 <img width="450" src=".github/images/murder_logo.png" alt="Murder logo">
 </p>
 
-<h1 align="center">Your hello world in Murder Engine!</h1>
+<h1 align="center">Your hello world (3d) in Murder Engine!</h1>
+
+This is a fork of Hello Murder that showcases how to add a custom importer and render. Using a simple 3d .obj as example
 
 Welcome to this fantastic experience that is trying out your very first game with the Murder Engine.
 
