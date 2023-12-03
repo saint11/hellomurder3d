@@ -1,47 +1,52 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <OutputType>WinExe</OutputType>
-    <TargetFramework>net7.0</TargetFramework>
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net8.0</TargetFramework>
 
-    <PublishReadyToRun>false</PublishReadyToRun>
-    <TieredCompilation>false</TieredCompilation>
+		<PublishReadyToRun>false</PublishReadyToRun>
+		<TieredCompilation>false</TieredCompilation>
 
-    <!-- Investigate if we need this -->
-    <ErrorOnDuplicatePublishOutputFiles>false</ErrorOnDuplicatePublishOutputFiles>
-  </PropertyGroup>
-  
-  <!-- Resources -->
-  <ItemGroup>
-    <Content Include="resources\**" CopyToOutputDirectory="PreserveNewest" LinkBase="resources" />
-    <Content Include="packed\**" CopyToOutputDirectory="PreserveNewest" TargetPath="resources\%(RecursiveDir)\%(Filename)%(Extension)" />
-  </ItemGroup>
+		<!-- Investigate if we need this -->
+		<ErrorOnDuplicatePublishOutputFiles>false</ErrorOnDuplicatePublishOutputFiles>
+	</PropertyGroup>
 
-  <ItemGroup>
-    <None Remove="resources\Icon.bmp" />
-    <None Remove="resources\Icon.ico" />
-  </ItemGroup>
+	<!-- Resources -->
+	<ItemGroup>
+		<Content Include="resources\**" CopyToOutputDirectory="PreserveNewest" LinkBase="resources" />
+		<Content Include="packed\**" CopyToOutputDirectory="PreserveNewest" TargetPath="resources\%(RecursiveDir)\%(Filename)%(Extension)" />
+	</ItemGroup>
 
-  <ItemGroup>
-    <EmbeddedResource Include="resources\Icon.bmp">
-      <LogicalName>Icon.bmp</LogicalName>
-    </EmbeddedResource>
-    <EmbeddedResource Include="resources\Icon.ico">
-      <LogicalName>Icon.ico</LogicalName>
-    </EmbeddedResource>
-  </ItemGroup>
+	<ItemGroup>
+		<None Remove="resources\Icon.bmp" />
+		<None Remove="resources\Icon.ico" />
+	</ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\..\murder\src\Murder\Murder.csproj" />
-  </ItemGroup>
+	<ItemGroup>
+		<EmbeddedResource Include="resources\Icon.bmp">
+			<LogicalName>Icon.bmp</LogicalName>
+		</EmbeddedResource>
+		<EmbeddedResource Include="resources\Icon.ico">
+			<LogicalName>Icon.ico</LogicalName>
+		</EmbeddedResource>
+	</ItemGroup>
 
-  <!-- Generate files! -->
-  <Target Name="GenerateFiles" AfterTargets="PostBuildEvent" Condition="'$(Generated)' != 'true' And '$(Configuration)' == 'Debug' And '$(SkipGenerator)' != true">
-    <Exec Command="$(OutputPath)Generator -buildWithBinaries '$(MSBuildProjectDirectory)' '$(MSBuildProjectDirectory)\$(OutDir)' $(AssemblyName)" Condition="'$(OS)' != 'WINDOWS_NT'" />
-    <Exec Command="$(OutputPath)Generator.exe -buildWithBinaries '$(MSBuildProjectDirectory)' '$(MSBuildProjectDirectory)\$(OutDir)' $(AssemblyName)" Condition="'$(OS)' == 'WINDOWS_NT'" />
+	<ItemGroup>
+		<ProjectReference Include="..\..\murder\src\Murder\Murder.csproj" />
+	</ItemGroup>
 
-    <!-- After generating these files, build the project again with the generated specs. -->
-    <MSBuild Projects="$(MSBuildProjectFile)" Properties="Generated=true" />
-  </Target>
+	<ItemGroup>
+		<!-- Pretty analyzers! -->
+		<ProjectReference Condition="'$(Configuration)' == 'Debug'" Include="..\..\murder\bang\src\Bang.Analyzers\Bang.Analyzers.csproj">
+			<ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+			<OutputItemType>Analyzer</OutputItemType>
+		</ProjectReference>
+
+		<!-- And generators! -->
+		<ProjectReference Include="..\..\murder\bang\src\Bang.Generator\Bang.Generator.csproj">
+			<ReferenceOutputAssembly>true</ReferenceOutputAssembly>
+			<OutputItemType>Analyzer</OutputItemType>
+		</ProjectReference>
+	</ItemGroup>
 
 </Project>
