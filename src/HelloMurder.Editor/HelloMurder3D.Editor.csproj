@@ -27,7 +27,7 @@
 
 	<ItemGroup>
 		<ProjectReference Include="..\..\murder\src\Murder.Editor\Murder.Editor.csproj" />
-		<ProjectReference Include="..\HelloMurder\HelloMurder.csproj" />
+		<ProjectReference Include="..\HelloMurder\HelloMurder3D.csproj" />
 	</ItemGroup>
 
 </Project>

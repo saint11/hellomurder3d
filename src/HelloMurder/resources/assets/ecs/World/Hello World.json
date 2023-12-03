@@ -4,13 +4,7 @@
   "Order": 1,
   "_systems": {
     "$type": "System.Collections.Immutable.ImmutableArray`1[[System.ValueTuple`2[[System.Type, System.Private.CoreLib],[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib]], System.Collections.Immutable",
-    "$values": [
-      {
-        "$type": "System.ValueTuple`2[[System.Type, System.Private.CoreLib],[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib",
-        "Item1": "HelloMurder.Systems.ObjRenderSystem, HelloMurder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
-        "Item2": true
-      }
-    ]
+    "$values": []
   },
   "_features": {
     "$type": "System.Collections.Immutable.ImmutableArray`1[[System.ValueTuple`2[[System.Guid, System.Private.CoreLib],[System.Boolean, System.Private.CoreLib]], System.Private.CoreLib]], System.Collections.Immutable",
@@ -29,9 +23,12 @@
       "$values": [
         "5d34f9a7-91d0-4142-82eb-9e1393c88297",
         "220b08d1-2193-4cfa-800f-8582eba2c0df",
-        "071c5ad8-5036-4d24-96cf-a28b47ad908f"
+        "2cbfd709-d6b8-4810-b3dc-0a4060051681"
       ]
     }
+  },
+  "_filterFolders": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.String, System.Private.CoreLib],[System.Collections.Immutable.ImmutableArray`1[[System.Guid, System.Private.CoreLib]], System.Collections.Immutable]], System.Private.CoreLib"
   },
   "_entities": {
     "$type": "System.Collections.Generic.Dictionary`2[[System.Guid, System.Private.CoreLib],[Murder.Prefabs.EntityInstance, Murder]], System.Private.CoreLib",
@@ -655,22 +652,22 @@
       "_guid": "ad4db301-6039-4d5d-ad89-28c5cd5f03ba",
       "_name": "Camera man"
     },
-    "071c5ad8-5036-4d24-96cf-a28b47ad908f": {
+    "2cbfd709-d6b8-4810-b3dc-0a4060051681": {
       "$type": "Murder.Prefabs.EntityInstance, Murder",
-      "_guid": "071c5ad8-5036-4d24-96cf-a28b47ad908f",
+      "_guid": "2cbfd709-d6b8-4810-b3dc-0a4060051681",
       "_name": "Instance",
       "_components": {
         "$type": "System.Collections.Generic.Dictionary`2[[System.Type, System.Private.CoreLib],[Bang.Components.IComponent, Bang]], System.Private.CoreLib",
         "Murder.Components.PositionComponent, Murder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": {
           "$type": "Murder.Components.PositionComponent, Murder",
-          "_x": 165.0,
-          "_y": 49.0
+          "_x": 145.0,
+          "_y": 44.0
         },
-        "HelloMurder.Components.MeshComponent, HelloMurder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": {
-          "$type": "HelloMurder.Components.MeshComponent, HelloMurder",
+        "HelloMurder.Components.MeshComponent, HelloMurder3D, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": {
+          "$type": "HelloMurder.Components.MeshComponent, HelloMurder3D",
           "Model": {
-            "$type": "Murder.Utilities.AssetRef`1[[HelloMurder.Assets.ModelAsset, HelloMurder]], Murder",
-            "Guid": "53d35ce2-9320-29e5-0339-42d245f61055"
+            "$type": "Murder.Utilities.AssetRef`1[[HelloMurder.Assets.ModelAsset, HelloMurder3D]], Murder",
+            "Guid": "4ff91409-1133-3c84-1e88-30fda08c03ad"
           }
         }
       },
@@ -682,7 +679,10 @@
     "$type": "System.Collections.Generic.Dictionary`2[[System.Guid, System.Private.CoreLib],[System.String, System.Private.CoreLib]], System.Private.CoreLib",
     "5d34f9a7-91d0-4142-82eb-9e1393c88297": "Room",
     "220b08d1-2193-4cfa-800f-8582eba2c0df": "Room",
-    "071c5ad8-5036-4d24-96cf-a28b47ad908f": "Room"
+    "2cbfd709-d6b8-4810-b3dc-0a4060051681": "Room"
+  },
+  "_entitiesToFilter": {
+    "$type": "System.Collections.Generic.Dictionary`2[[System.Guid, System.Private.CoreLib],[System.String, System.Private.CoreLib]], System.Private.CoreLib"
   },
   "Name": "Hello World",
   "Guid": "3bd26720-c3b1-44c1-b7c3-192d5656cc37"

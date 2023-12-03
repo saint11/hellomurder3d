@@ -1,9 +1,9 @@
 {
-  "$type": "HelloMurder.Assets.ModelAsset, HelloMurder",
+  "$type": "HelloMurder.Assets.ModelAsset, HelloMurder3D",
   "Model": {
-    "$type": "HelloMurder.Core.ObjModel, HelloMurder",
+    "$type": "HelloMurder.Core.ObjModel, HelloMurder3D",
     "Meshes": {
-      "$type": "System.Collections.Generic.List`1[[HelloMurder.Core.ObjModel+Mesh, HelloMurder]], System.Private.CoreLib",
+      "$type": "System.Collections.Generic.List`1[[HelloMurder.Core.ObjModel+Mesh, HelloMurder3D]], System.Private.CoreLib",
       "$values": []
     },
     "_verts": {
