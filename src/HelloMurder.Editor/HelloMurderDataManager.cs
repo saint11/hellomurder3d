@@ -1,5 +1,6 @@
 ﻿
 using HelloMurder.Assets;
+using HelloMurder3D.Assets;
 using Murder;
 using Murder.Data;
 using Murder.Diagnostics;
@@ -59,8 +60,6 @@ internal class HelloMurderDataManager : EditorDataManager
         string binDirectoryPath = Path.Join(binPackedPath, ModelsPath);
         _ = FileHelper.GetOrCreateDirectory(binDirectoryPath);
 
-
-
         DirectoryInfo rawResourcesDirectory = FileHelper.GetOrCreateDirectory(rawResourcesPath);
         FileInfo[] files = rawResourcesDirectory.GetFiles("*.*", SearchOption.AllDirectories);
 
@@ -69,12 +68,31 @@ internal class HelloMurderDataManager : EditorDataManager
 
             switch (fi.Extension.ToLower())
             {
+                case ".map":
+                    {
+                        GameLogger.Log($"Found Quake .MAP format: {fi.FullName}");
+                        var map = new ExternalMapAsset(fi);
+                        map.Name = Path.GetFileNameWithoutExtension(fi.Name);
+                        SaveAsset(map);
+                    }
+                    break;
+
+                case ".bsp":
+                    {
+                        GameLogger.Log($"Found Quake .BSP format: {fi.FullName}");
+                        var map = new ExternalMapAsset(fi);
+                        map.Name = Path.GetFileNameWithoutExtension(fi.Name);
+                        SaveAsset(map);
+                    }
+                    break;
+
                 case ".obj":
-                    GameLogger.Log($"Found model {fi.FullName}");
-                    var model = new ModelAsset(fi.FullName);
-                    model.Name = Path.GetFileNameWithoutExtension(fi.Name);
-                    SaveAsset(model);
-                    
+                    {
+                        GameLogger.Log($"Found model {fi.FullName}");
+                        var model = new ModelAsset(fi);
+                        model.Name = Path.GetFileNameWithoutExtension(fi.Name);
+                        SaveAsset(model);
+                    }
                     break;
                 case ".png":
                     GameLogger.Log($"Found texture {fi.FullName}");

@@ -1,11 +1,7 @@
 {
   "$type": "HelloMurder.Assets.ModelAsset, HelloMurder3D",
   "Model": {
-    "$type": "HelloMurder.Core.ObjModel, HelloMurder3D",
-    "Meshes": {
-      "$type": "System.Collections.Generic.List`1[[HelloMurder.Core.ObjModel+Mesh, HelloMurder3D]], System.Private.CoreLib",
-      "$values": []
-    },
+    "$type": "HelloMurder.Core.Model3D, HelloMurder3D",
     "_verts": {
       "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture[], MonoGame.Framework",
       "$values": [

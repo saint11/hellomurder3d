@@ -22,8 +22,8 @@
       "$type": "System.Collections.Immutable.ImmutableArray`1[[System.Guid, System.Private.CoreLib]], System.Collections.Immutable",
       "$values": [
         "5d34f9a7-91d0-4142-82eb-9e1393c88297",
-        "220b08d1-2193-4cfa-800f-8582eba2c0df",
-        "2cbfd709-d6b8-4810-b3dc-0a4060051681"
+        "7a930ead-dabf-4f66-b5bc-0b92ba65b5cd",
+        "bb33fc28-bc75-4e2e-93bb-f0cc50fb4b37"
       ]
     }
   },
@@ -32,33 +32,6 @@
   },
   "_entities": {
     "$type": "System.Collections.Generic.Dictionary`2[[System.Guid, System.Private.CoreLib],[Murder.Prefabs.EntityInstance, Murder]], System.Private.CoreLib",
-    "220b08d1-2193-4cfa-800f-8582eba2c0df": {
-      "$type": "Murder.Prefabs.PrefabEntityInstance, Murder",
-      "PrefabRef": {
-        "$type": "Murder.Prefabs.PrefabReference, Murder",
-        "Guid": "e4676d89-51f1-455e-b6b3-e85d18b7b72f"
-      },
-      "_removeComponent": {
-        "$type": "System.Collections.Generic.HashSet`1[[System.Type, System.Private.CoreLib]], System.Private.CoreLib",
-        "$values": []
-      },
-      "_childrenModifiers": {
-        "$type": "System.Collections.Generic.Dictionary`2[[System.Guid, System.Private.CoreLib],[Murder.Prefabs.EntityModifier, Murder]], System.Private.CoreLib"
-      },
-      "_ignorePrefabChildren": false,
-      "_components": {
-        "$type": "System.Collections.Generic.Dictionary`2[[System.Type, System.Private.CoreLib],[Bang.Components.IComponent, Bang]], System.Private.CoreLib",
-        "Murder.Components.PositionComponent, Murder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": {
-          "$type": "Murder.Components.PositionComponent, Murder",
-          "_x": 157.0,
-          "_y": 84.0
-        }
-      },
-      "IsDeactivated": false,
-      "ActivateWithParent": false,
-      "_guid": "220b08d1-2193-4cfa-800f-8582eba2c0df",
-      "_name": "Player"
-    },
     "5d34f9a7-91d0-4142-82eb-9e1393c88297": {
       "$type": "Murder.Prefabs.EntityInstance, Murder",
       "_guid": "5d34f9a7-91d0-4142-82eb-9e1393c88297",
@@ -76,8 +49,6 @@
             "_gridMap": {
               "$type": "System.Int32[], System.Private.CoreLib",
               "$values": [
-                2,
-                2,
                 0,
                 0,
                 0,
@@ -108,17 +79,11 @@
                 0,
                 0,
                 0,
-                2,
-                2,
                 0,
                 0,
                 0,
                 0,
                 0,
-                1,
-                1,
-                1,
-                1,
                 0,
                 0,
                 0,
@@ -140,17 +105,14 @@
                 0,
                 0,
                 0,
-                2,
                 0,
                 0,
                 0,
                 0,
                 0,
                 0,
-                1,
                 0,
                 0,
-                1,
                 0,
                 0,
                 0,
@@ -172,16 +134,13 @@
                 0,
                 0,
                 0,
-                2,
                 0,
                 0,
                 0,
                 0,
                 0,
                 0,
-                1,
                 0,
-                1,
                 0,
                 0,
                 0,
@@ -205,13 +164,11 @@
                 0,
                 0,
                 0,
-                2,
                 0,
                 0,
                 0,
                 0,
                 0,
-                1,
                 0,
                 0,
                 0,
@@ -236,17 +193,12 @@
                 0,
                 0,
                 0,
-                2,
                 0,
                 0,
                 0,
                 0,
                 0,
                 0,
-                1,
-                1,
-                1,
-                1,
                 0,
                 0,
                 0,
@@ -274,11 +226,32 @@
                 0,
                 0,
                 0,
-                1,
-                1,
-                1,
-                1,
-                1,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
+                0,
                 0,
                 0,
                 0,
@@ -630,45 +603,100 @@
       "IsDeactivated": false,
       "ActivateWithParent": false
     },
-    "ad4db301-6039-4d5d-ad89-28c5cd5f03ba": {
-      "$type": "Murder.Prefabs.PrefabEntityInstance, Murder",
-      "PrefabRef": {
-        "$type": "Murder.Prefabs.PrefabReference, Murder",
-        "Guid": "fce7634c-9ba9-4279-9fa0-129fc9816287"
-      },
-      "_removeComponent": {
-        "$type": "System.Collections.Generic.HashSet`1[[System.Type, System.Private.CoreLib]], System.Private.CoreLib",
-        "$values": []
-      },
-      "_childrenModifiers": {
-        "$type": "System.Collections.Generic.Dictionary`2[[System.Guid, System.Private.CoreLib],[Murder.Prefabs.EntityModifier, Murder]], System.Private.CoreLib"
-      },
-      "_ignorePrefabChildren": false,
-      "_components": {
-        "$type": "System.Collections.Generic.Dictionary`2[[System.Type, System.Private.CoreLib],[Bang.Components.IComponent, Bang]], System.Private.CoreLib"
-      },
-      "IsDeactivated": false,
-      "ActivateWithParent": false,
-      "_guid": "ad4db301-6039-4d5d-ad89-28c5cd5f03ba",
-      "_name": "Camera man"
-    },
-    "2cbfd709-d6b8-4810-b3dc-0a4060051681": {
+    "7a930ead-dabf-4f66-b5bc-0b92ba65b5cd": {
       "$type": "Murder.Prefabs.EntityInstance, Murder",
-      "_guid": "2cbfd709-d6b8-4810-b3dc-0a4060051681",
-      "_name": "Instance",
+      "_guid": "7a930ead-dabf-4f66-b5bc-0b92ba65b5cd",
+      "_name": "Map",
       "_components": {
         "$type": "System.Collections.Generic.Dictionary`2[[System.Type, System.Private.CoreLib],[Bang.Components.IComponent, Bang]], System.Private.CoreLib",
-        "Murder.Components.PositionComponent, Murder, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": {
-          "$type": "Murder.Components.PositionComponent, Murder",
-          "_x": 145.0,
-          "_y": 44.0
-        },
-        "HelloMurder.Components.MeshComponent, HelloMurder3D, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": {
-          "$type": "HelloMurder.Components.MeshComponent, HelloMurder3D",
-          "Model": {
-            "$type": "Murder.Utilities.AssetRef`1[[HelloMurder.Assets.ModelAsset, HelloMurder3D]], Murder",
-            "Guid": "4ff91409-1133-3c84-1e88-30fda08c03ad"
+        "HelloMurder3D.Components.QMapComponent, HelloMurder3D, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": {
+          "$type": "HelloMurder3D.Components.QMapComponent, HelloMurder3D",
+          "Map": {
+            "$type": "Murder.Utilities.AssetRef`1[[HelloMurder3D.Assets.ExternalMapAsset, HelloMurder3D]], Murder",
+            "Guid": "fb5037b2-1768-c44f-9bb1-10be981afcd7"
           }
+        }
+      },
+      "IsDeactivated": false,
+      "ActivateWithParent": false
+    },
+    "bb33fc28-bc75-4e2e-93bb-f0cc50fb4b37": {
+      "$type": "Murder.Prefabs.EntityInstance, Murder",
+      "_guid": "bb33fc28-bc75-4e2e-93bb-f0cc50fb4b37",
+      "_name": "Camera",
+      "_components": {
+        "$type": "System.Collections.Generic.Dictionary`2[[System.Type, System.Private.CoreLib],[Bang.Components.IComponent, Bang]], System.Private.CoreLib",
+        "HelloMurder3D.Components.Transform3D, HelloMurder3D, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": {
+          "$type": "HelloMurder3D.Components.Transform3D, HelloMurder3D",
+          "Matrix": {
+            "$type": "System.Nullable`1[[System.Numerics.Matrix4x4, System.Private.CoreLib]], System.Private.CoreLib",
+            "M11": 0.0,
+            "M12": 0.0,
+            "M13": 0.0,
+            "M14": 0.0,
+            "M21": 0.0,
+            "M22": 0.0,
+            "M23": 0.0,
+            "M24": 0.0,
+            "M31": 0.0,
+            "M32": 0.0,
+            "M33": 0.0,
+            "M34": 0.0,
+            "M41": 0.0,
+            "M42": 0.0,
+            "M43": 0.0,
+            "M44": 0.0,
+            "Translation": {
+              "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+              "X": 0.0,
+              "Y": 0.0,
+              "Z": 0.0
+            }
+          },
+          "Position": {
+            "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Rotation": {
+            "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          },
+          "Scale": {
+            "$type": "System.Numerics.Vector3, System.Private.CoreLib",
+            "X": 0.0,
+            "Y": 0.0,
+            "Z": 0.0
+          }
+        },
+        "HelloMurder3D.Components.Camera3dComponent, HelloMurder3D, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": {
+          "$type": "HelloMurder3D.Components.Camera3dComponent, HelloMurder3D",
+          "FieldOfView": 0.0,
+          "Projection": {
+            "$type": "Microsoft.Xna.Framework.Matrix, MonoGame.Framework",
+            "M11": 0.0,
+            "M12": 0.0,
+            "M13": 0.0,
+            "M14": 0.0,
+            "M21": 0.0,
+            "M22": 0.0,
+            "M23": 0.0,
+            "M24": 0.0,
+            "M31": 0.0,
+            "M32": 0.0,
+            "M33": 0.0,
+            "M34": 0.0,
+            "M41": 0.0,
+            "M42": 0.0,
+            "M43": 0.0,
+            "M44": 0.0
+          }
+        },
+        "HelloMurder.Components.PlayerComponent, HelloMurder3D, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": {
+          "$type": "HelloMurder.Components.PlayerComponent, HelloMurder3D"
         }
       },
       "IsDeactivated": false,
@@ -678,8 +706,8 @@
   "_entitiesToFolder": {
     "$type": "System.Collections.Generic.Dictionary`2[[System.Guid, System.Private.CoreLib],[System.String, System.Private.CoreLib]], System.Private.CoreLib",
     "5d34f9a7-91d0-4142-82eb-9e1393c88297": "Room",
-    "220b08d1-2193-4cfa-800f-8582eba2c0df": "Room",
-    "2cbfd709-d6b8-4810-b3dc-0a4060051681": "Room"
+    "7a930ead-dabf-4f66-b5bc-0b92ba65b5cd": "Room",
+    "bb33fc28-bc75-4e2e-93bb-f0cc50fb4b37": "Room"
   },
   "_entitiesToFilter": {
     "$type": "System.Collections.Generic.Dictionary`2[[System.Guid, System.Private.CoreLib],[System.String, System.Private.CoreLib]], System.Private.CoreLib"

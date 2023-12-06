@@ -1,0 +1,1393 @@
+{
+  "$type": "HelloMurder.Assets.ModelAsset, HelloMurder3D",
+  "Model": {
+    "$type": "HelloMurder.Core.Model3D, HelloMurder3D",
+    "_verts": {
+      "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture[], MonoGame.Framework",
+      "$values": [
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-0.581319, 1.280443, 0.862257",
+          "TextureCoordinate": "0.875, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "0.05039, 1.679285, -0.589375",
+          "TextureCoordinate": "0.875, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-0.581319, 1.280443, -0.862257",
+          "TextureCoordinate": "0.875, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.86085, 1.280443, 0.862257",
+          "TextureCoordinate": "0.625, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-0.470777, 0.140221, 0.931128",
+          "TextureCoordinate": "0.5, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.750307, 0.140221, 0.931128",
+          "TextureCoordinate": "0.5, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-0.360235, -1.237126, 0.453549",
+          "TextureCoordinate": "0.125, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.214054, -0.455978, -0.455978",
+          "TextureCoordinate": "0.125, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-0.360235, -1.237126, -0.453549",
+          "TextureCoordinate": "0.125, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.639765, -1.237126, -0.453549",
+          "TextureCoordinate": "0.375, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-0.360235, -1.237126, 0.453549",
+          "TextureCoordinate": "0.125, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-0.360235, -1.237126, -0.453549",
+          "TextureCoordinate": "0.125, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.750307, 0.140221, 0.931128",
+          "TextureCoordinate": "0.5, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "2.702157, -0.51851, 0.51851",
+          "TextureCoordinate": "0.375, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "2.702157, 0, 0.51851",
+          "TextureCoordinate": "0.5, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-0.581319, 1.280443, -0.862257",
+          "TextureCoordinate": "0.625, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.750307, 0.140221, -0.931128",
+          "TextureCoordinate": "0.5, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-0.470777, 0.140221, -0.931128",
+          "TextureCoordinate": "0.5, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "2.702157, 0.51851, -0.51851",
+          "TextureCoordinate": "0.625, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "2.702157, 0, 0.51851",
+          "TextureCoordinate": "0.5, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "2.702157, 0, -0.51851",
+          "TextureCoordinate": "0.5, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.750307, 0.140221, -0.931128",
+          "TextureCoordinate": "0.5, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "2.702157, 0.51851, -0.51851",
+          "TextureCoordinate": "0.625, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "2.702157, 0, -0.51851",
+          "TextureCoordinate": "0.5, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.639765, -1.237126, -0.453549",
+          "TextureCoordinate": "0.375, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "2.702157, -0.51851, 0.51851",
+          "TextureCoordinate": "0.375, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.639765, -1.237126, 0.453549",
+          "TextureCoordinate": "0.375, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.86085, 1.280443, 0.862257",
+          "TextureCoordinate": "0.625, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "2.702157, 0.51851, -0.51851",
+          "TextureCoordinate": "0.625, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.86085, 1.280443, -0.862257",
+          "TextureCoordinate": "0.625, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.214054, -0.455978, -0.455978",
+          "TextureCoordinate": "0.375, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.579929, 0, -0.545261",
+          "TextureCoordinate": "0.5, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.214054, 0, -0.455978",
+          "TextureCoordinate": "0.5, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-0.581319, 1.280443, -0.862257",
+          "TextureCoordinate": "0.875, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.214054, 0.455978, 0.455978",
+          "TextureCoordinate": "0.875, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-0.581319, 1.280443, 0.862257",
+          "TextureCoordinate": "0.875, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-0.470777, 0.140221, -0.931128",
+          "TextureCoordinate": "0.5, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.214054, -0.455978, -0.455978",
+          "TextureCoordinate": "0.375, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.214054, 0, -0.455978",
+          "TextureCoordinate": "0.5, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-0.470777, 0.140221, 0.931128",
+          "TextureCoordinate": "0.5, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.214054, 0.455978, 0.455978",
+          "TextureCoordinate": "0.625, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.214054, 0, 0.455978",
+          "TextureCoordinate": "0.5, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.579929, 0.545261, -0.545261",
+          "TextureCoordinate": "0.875, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.036532, 1.410768, 0.648231",
+          "TextureCoordinate": "0.875, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.579929, 0.545261, 0.545261",
+          "TextureCoordinate": "0.875, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.214054, -0.455978, 0.455978",
+          "TextureCoordinate": "0.125, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.579929, -0.545261, -0.545261",
+          "TextureCoordinate": "0.125, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.214054, -0.455978, -0.455978",
+          "TextureCoordinate": "0.125, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.214054, 0.455978, -0.455978",
+          "TextureCoordinate": "0.875, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.579929, 0.545261, 0.545261",
+          "TextureCoordinate": "0.875, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.214054, 0.455978, 0.455978",
+          "TextureCoordinate": "0.875, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.214054, 0.455978, 0.455978",
+          "TextureCoordinate": "0.625, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.579929, 0, 0.545261",
+          "TextureCoordinate": "0.5, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.214054, 0, 0.455978",
+          "TextureCoordinate": "0.5, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.036532, 1.410768, 0.648231",
+          "TextureCoordinate": "0.625, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.289737, 0, 0.648231",
+          "TextureCoordinate": "0.5, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.036532, 0, 0.648231",
+          "TextureCoordinate": "0.5, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.579929, 0.545261, 0.545261",
+          "TextureCoordinate": "0.625, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.036532, 0, 0.648231",
+          "TextureCoordinate": "0.5, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.579929, 0, 0.545261",
+          "TextureCoordinate": "0.5, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.579929, -0.545261, -0.545261",
+          "TextureCoordinate": "0.375, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.036532, 0, -0.648231",
+          "TextureCoordinate": "0.5, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.579929, 0, -0.545261",
+          "TextureCoordinate": "0.5, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.579929, -0.545261, 0.545261",
+          "TextureCoordinate": "0.125, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.036532, -1.410768, -0.648231",
+          "TextureCoordinate": "0.125, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.579929, -0.545261, -0.545261",
+          "TextureCoordinate": "0.125, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-3.028493, 1.410768, 0.648231",
+          "TextureCoordinate": "0.625, 0"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.289737, 0, -0.648231",
+          "TextureCoordinate": "0.5, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.289737, 0, 0.648231",
+          "TextureCoordinate": "0.5, 0"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.036532, -1.410768, -0.648231",
+          "TextureCoordinate": "0.375, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.289737, 0, -0.648231",
+          "TextureCoordinate": "0.5, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.036532, 0, -0.648231",
+          "TextureCoordinate": "0.5, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.036532, -1.410768, 0.648231",
+          "TextureCoordinate": "0.125, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-3.028493, -1.410768, -0.648231",
+          "TextureCoordinate": "0.125, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.036532, -1.410768, -0.648231",
+          "TextureCoordinate": "0.125, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.036532, 1.410768, -0.648231",
+          "TextureCoordinate": "0.875, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-3.028493, 1.410768, 0.648231",
+          "TextureCoordinate": "0.875, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.036532, 1.410768, 0.648231",
+          "TextureCoordinate": "0.875, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.229141, 1.679285, -0.589375",
+          "TextureCoordinate": "0.625, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "0.05039, 1.679285, -0.589375",
+          "TextureCoordinate": "0.625, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "0.639765, 2.300764, -0.351433",
+          "TextureCoordinate": "0.625, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.86085, 1.280443, -0.862257",
+          "TextureCoordinate": "0.625, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.229141, 1.679285, 0.589375",
+          "TextureCoordinate": "0.625, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.86085, 1.280443, 0.862257",
+          "TextureCoordinate": "0.625, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-0.581319, 1.280443, -0.862257",
+          "TextureCoordinate": "0.625, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.229141, 1.679285, -0.589375",
+          "TextureCoordinate": "0.625, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.86085, 1.280443, -0.862257",
+          "TextureCoordinate": "0.625, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-0.581319, 1.280443, 0.862257",
+          "TextureCoordinate": "0.625, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.229141, 1.679285, 0.589375",
+          "TextureCoordinate": "0.625, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "0.05039, 1.679285, 0.589375",
+          "TextureCoordinate": "0.625, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.229141, 1.679285, -0.589375",
+          "TextureCoordinate": "0.625, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "0.639765, 2.300764, 0.351433",
+          "TextureCoordinate": "0.625, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.229141, 1.679285, 0.589375",
+          "TextureCoordinate": "0.625, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "0.05039, 1.679285, 0.589375",
+          "TextureCoordinate": "0.875, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "0.639765, 2.300764, -0.351433",
+          "TextureCoordinate": "0.875, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "0.05039, 1.679285, -0.589375",
+          "TextureCoordinate": "0.875, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "0.05039, 1.679285, 0.589375",
+          "TextureCoordinate": "0.625, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.229141, 1.679285, 0.589375",
+          "TextureCoordinate": "0.625, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "0.639765, 2.300764, 0.351433",
+          "TextureCoordinate": "0.625, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.036532, 1.410768, -0.648231",
+          "TextureCoordinate": "0.625, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.289737, 0, -0.648231",
+          "TextureCoordinate": "0.5, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-3.028493, 1.410768, -0.648231",
+          "TextureCoordinate": "0.625, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.289737, 0, 0.648231",
+          "TextureCoordinate": "0.5, 0"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-3.028493, -1.410768, -0.648231",
+          "TextureCoordinate": "0.375, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-3.028493, -1.410768, 0.648231",
+          "TextureCoordinate": "0.375, 0"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.579929, 0.545261, -0.545261",
+          "TextureCoordinate": "0.625, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.036532, 0, -0.648231",
+          "TextureCoordinate": "0.5, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.036532, 1.410768, -0.648231",
+          "TextureCoordinate": "0.625, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.579929, -0.545261, 0.545261",
+          "TextureCoordinate": "0.375, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.036532, 0, 0.648231",
+          "TextureCoordinate": "0.5, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.036532, -1.410768, 0.648231",
+          "TextureCoordinate": "0.375, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.036532, -1.410768, 0.648231",
+          "TextureCoordinate": "0.375, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.289737, 0, 0.648231",
+          "TextureCoordinate": "0.5, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-3.028493, -1.410768, 0.648231",
+          "TextureCoordinate": "0.375, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.214054, -0.455978, 0.455978",
+          "TextureCoordinate": "0.375, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.579929, 0, 0.545261",
+          "TextureCoordinate": "0.5, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.579929, -0.545261, 0.545261",
+          "TextureCoordinate": "0.375, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-0.470777, 0.140221, 0.931128",
+          "TextureCoordinate": "0.5, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.214054, -0.455978, 0.455978",
+          "TextureCoordinate": "0.375, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-0.360235, -1.237126, 0.453549",
+          "TextureCoordinate": "0.375, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-0.470777, 0.140221, -0.931128",
+          "TextureCoordinate": "0.5, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.214054, 0.455978, -0.455978",
+          "TextureCoordinate": "0.625, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-0.581319, 1.280443, -0.862257",
+          "TextureCoordinate": "0.625, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.214054, 0.455978, -0.455978",
+          "TextureCoordinate": "0.625, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.579929, 0, -0.545261",
+          "TextureCoordinate": "0.5, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.579929, 0.545261, -0.545261",
+          "TextureCoordinate": "0.625, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.750307, 0.140221, -0.931128",
+          "TextureCoordinate": "0.5, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "2.702157, -0.51851, -0.51851",
+          "TextureCoordinate": "0.375, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.639765, -1.237126, -0.453549",
+          "TextureCoordinate": "0.375, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "2.702157, 0, -0.51851",
+          "TextureCoordinate": "0.5, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "2.702157, -0.51851, 0.51851",
+          "TextureCoordinate": "0.375, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "2.702157, -0.51851, -0.51851",
+          "TextureCoordinate": "0.375, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-0.470777, 0.140221, -0.931128",
+          "TextureCoordinate": "0.5, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.639765, -1.237126, -0.453549",
+          "TextureCoordinate": "0.375, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-0.360235, -1.237126, -0.453549",
+          "TextureCoordinate": "0.375, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.750307, 0.140221, 0.931128",
+          "TextureCoordinate": "0.5, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "2.702157, 0.51851, 0.51851",
+          "TextureCoordinate": "0.625, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.86085, 1.280443, 0.862257",
+          "TextureCoordinate": "0.625, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.750307, 0.140221, 0.931128",
+          "TextureCoordinate": "0.5, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-0.360235, -1.237126, 0.453549",
+          "TextureCoordinate": "0.375, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.639765, -1.237126, 0.453549",
+          "TextureCoordinate": "0.375, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-0.581319, 1.280443, 0.862257",
+          "TextureCoordinate": "0.875, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "0.05039, 1.679285, 0.589375",
+          "TextureCoordinate": "0.875, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "0.05039, 1.679285, -0.589375",
+          "TextureCoordinate": "0.875, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.86085, 1.280443, 0.862257",
+          "TextureCoordinate": "0.625, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-0.581319, 1.280443, 0.862257",
+          "TextureCoordinate": "0.625, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-0.470777, 0.140221, 0.931128",
+          "TextureCoordinate": "0.5, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-0.360235, -1.237126, 0.453549",
+          "TextureCoordinate": "0.125, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.214054, -0.455978, 0.455978",
+          "TextureCoordinate": "0.125, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.214054, -0.455978, -0.455978",
+          "TextureCoordinate": "0.125, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.639765, -1.237126, -0.453549",
+          "TextureCoordinate": "0.375, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.639765, -1.237126, 0.453549",
+          "TextureCoordinate": "0.375, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-0.360235, -1.237126, 0.453549",
+          "TextureCoordinate": "0.125, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.750307, 0.140221, 0.931128",
+          "TextureCoordinate": "0.5, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.639765, -1.237126, 0.453549",
+          "TextureCoordinate": "0.375, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "2.702157, -0.51851, 0.51851",
+          "TextureCoordinate": "0.375, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-0.581319, 1.280443, -0.862257",
+          "TextureCoordinate": "0.625, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.86085, 1.280443, -0.862257",
+          "TextureCoordinate": "0.625, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.750307, 0.140221, -0.931128",
+          "TextureCoordinate": "0.5, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "2.702157, 0.51851, -0.51851",
+          "TextureCoordinate": "0.625, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "2.702157, 0.51851, 0.51851",
+          "TextureCoordinate": "0.625, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "2.702157, 0, 0.51851",
+          "TextureCoordinate": "0.5, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.750307, 0.140221, -0.931128",
+          "TextureCoordinate": "0.5, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.86085, 1.280443, -0.862257",
+          "TextureCoordinate": "0.625, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "2.702157, 0.51851, -0.51851",
+          "TextureCoordinate": "0.625, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.639765, -1.237126, -0.453549",
+          "TextureCoordinate": "0.375, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "2.702157, -0.51851, -0.51851",
+          "TextureCoordinate": "0.375, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "2.702157, -0.51851, 0.51851",
+          "TextureCoordinate": "0.375, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.86085, 1.280443, 0.862257",
+          "TextureCoordinate": "0.625, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "2.702157, 0.51851, 0.51851",
+          "TextureCoordinate": "0.625, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "2.702157, 0.51851, -0.51851",
+          "TextureCoordinate": "0.625, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.214054, -0.455978, -0.455978",
+          "TextureCoordinate": "0.375, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.579929, -0.545261, -0.545261",
+          "TextureCoordinate": "0.375, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.579929, 0, -0.545261",
+          "TextureCoordinate": "0.5, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-0.581319, 1.280443, -0.862257",
+          "TextureCoordinate": "0.875, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.214054, 0.455978, -0.455978",
+          "TextureCoordinate": "0.875, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.214054, 0.455978, 0.455978",
+          "TextureCoordinate": "0.875, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-0.470777, 0.140221, -0.931128",
+          "TextureCoordinate": "0.5, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-0.360235, -1.237126, -0.453549",
+          "TextureCoordinate": "0.375, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.214054, -0.455978, -0.455978",
+          "TextureCoordinate": "0.375, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-0.470777, 0.140221, 0.931128",
+          "TextureCoordinate": "0.5, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-0.581319, 1.280443, 0.862257",
+          "TextureCoordinate": "0.625, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.214054, 0.455978, 0.455978",
+          "TextureCoordinate": "0.625, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.579929, 0.545261, -0.545261",
+          "TextureCoordinate": "0.875, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.036532, 1.410768, -0.648231",
+          "TextureCoordinate": "0.875, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.036532, 1.410768, 0.648231",
+          "TextureCoordinate": "0.875, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.214054, -0.455978, 0.455978",
+          "TextureCoordinate": "0.125, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.579929, -0.545261, 0.545261",
+          "TextureCoordinate": "0.125, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.579929, -0.545261, -0.545261",
+          "TextureCoordinate": "0.125, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.214054, 0.455978, -0.455978",
+          "TextureCoordinate": "0.875, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.579929, 0.545261, -0.545261",
+          "TextureCoordinate": "0.875, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.579929, 0.545261, 0.545261",
+          "TextureCoordinate": "0.875, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.214054, 0.455978, 0.455978",
+          "TextureCoordinate": "0.625, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.579929, 0.545261, 0.545261",
+          "TextureCoordinate": "0.625, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.579929, 0, 0.545261",
+          "TextureCoordinate": "0.5, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.036532, 1.410768, 0.648231",
+          "TextureCoordinate": "0.625, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-3.028493, 1.410768, 0.648231",
+          "TextureCoordinate": "0.625, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.289737, 0, 0.648231",
+          "TextureCoordinate": "0.5, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.579929, 0.545261, 0.545261",
+          "TextureCoordinate": "0.625, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.036532, 1.410768, 0.648231",
+          "TextureCoordinate": "0.625, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.036532, 0, 0.648231",
+          "TextureCoordinate": "0.5, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.579929, -0.545261, -0.545261",
+          "TextureCoordinate": "0.375, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.036532, -1.410768, -0.648231",
+          "TextureCoordinate": "0.375, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.036532, 0, -0.648231",
+          "TextureCoordinate": "0.5, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.579929, -0.545261, 0.545261",
+          "TextureCoordinate": "0.125, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.036532, -1.410768, 0.648231",
+          "TextureCoordinate": "0.125, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.036532, -1.410768, -0.648231",
+          "TextureCoordinate": "0.125, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-3.028493, 1.410768, 0.648231",
+          "TextureCoordinate": "0.625, 0"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-3.028493, 1.410768, -0.648231",
+          "TextureCoordinate": "0.625, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.289737, 0, -0.648231",
+          "TextureCoordinate": "0.5, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.036532, -1.410768, -0.648231",
+          "TextureCoordinate": "0.375, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-3.028493, -1.410768, -0.648231",
+          "TextureCoordinate": "0.375, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.289737, 0, -0.648231",
+          "TextureCoordinate": "0.5, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.036532, -1.410768, 0.648231",
+          "TextureCoordinate": "0.125, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-3.028493, -1.410768, 0.648231",
+          "TextureCoordinate": "0.125, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-3.028493, -1.410768, -0.648231",
+          "TextureCoordinate": "0.125, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.036532, 1.410768, -0.648231",
+          "TextureCoordinate": "0.875, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-3.028493, 1.410768, -0.648231",
+          "TextureCoordinate": "0.875, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-3.028493, 1.410768, 0.648231",
+          "TextureCoordinate": "0.875, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.86085, 1.280443, -0.862257",
+          "TextureCoordinate": "0.625, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.229141, 1.679285, -0.589375",
+          "TextureCoordinate": "0.625, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.229141, 1.679285, 0.589375",
+          "TextureCoordinate": "0.625, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-0.581319, 1.280443, -0.862257",
+          "TextureCoordinate": "0.625, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "0.05039, 1.679285, -0.589375",
+          "TextureCoordinate": "0.625, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.229141, 1.679285, -0.589375",
+          "TextureCoordinate": "0.625, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-0.581319, 1.280443, 0.862257",
+          "TextureCoordinate": "0.625, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.86085, 1.280443, 0.862257",
+          "TextureCoordinate": "0.625, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.229141, 1.679285, 0.589375",
+          "TextureCoordinate": "0.625, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.229141, 1.679285, -0.589375",
+          "TextureCoordinate": "0.625, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "0.639765, 2.300764, -0.351433",
+          "TextureCoordinate": "0.625, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "0.639765, 2.300764, 0.351433",
+          "TextureCoordinate": "0.625, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "0.05039, 1.679285, 0.589375",
+          "TextureCoordinate": "0.875, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "0.639765, 2.300764, 0.351433",
+          "TextureCoordinate": "0.875, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "0.639765, 2.300764, -0.351433",
+          "TextureCoordinate": "0.875, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.036532, 1.410768, -0.648231",
+          "TextureCoordinate": "0.625, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.036532, 0, -0.648231",
+          "TextureCoordinate": "0.5, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.289737, 0, -0.648231",
+          "TextureCoordinate": "0.5, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.289737, 0, 0.648231",
+          "TextureCoordinate": "0.5, 0"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.289737, 0, -0.648231",
+          "TextureCoordinate": "0.5, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-3.028493, -1.410768, -0.648231",
+          "TextureCoordinate": "0.375, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.579929, 0.545261, -0.545261",
+          "TextureCoordinate": "0.625, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.579929, 0, -0.545261",
+          "TextureCoordinate": "0.5, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.036532, 0, -0.648231",
+          "TextureCoordinate": "0.5, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.579929, -0.545261, 0.545261",
+          "TextureCoordinate": "0.375, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.579929, 0, 0.545261",
+          "TextureCoordinate": "0.5, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.036532, 0, 0.648231",
+          "TextureCoordinate": "0.5, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.036532, -1.410768, 0.648231",
+          "TextureCoordinate": "0.375, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.036532, 0, 0.648231",
+          "TextureCoordinate": "0.5, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-2.289737, 0, 0.648231",
+          "TextureCoordinate": "0.5, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.214054, -0.455978, 0.455978",
+          "TextureCoordinate": "0.375, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.214054, 0, 0.455978",
+          "TextureCoordinate": "0.5, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.579929, 0, 0.545261",
+          "TextureCoordinate": "0.5, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-0.470777, 0.140221, 0.931128",
+          "TextureCoordinate": "0.5, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.214054, 0, 0.455978",
+          "TextureCoordinate": "0.5, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.214054, -0.455978, 0.455978",
+          "TextureCoordinate": "0.375, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-0.470777, 0.140221, -0.931128",
+          "TextureCoordinate": "0.5, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.214054, 0, -0.455978",
+          "TextureCoordinate": "0.5, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.214054, 0.455978, -0.455978",
+          "TextureCoordinate": "0.625, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.214054, 0.455978, -0.455978",
+          "TextureCoordinate": "0.625, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.214054, 0, -0.455978",
+          "TextureCoordinate": "0.5, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-1.579929, 0, -0.545261",
+          "TextureCoordinate": "0.5, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.750307, 0.140221, -0.931128",
+          "TextureCoordinate": "0.5, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "2.702157, 0, -0.51851",
+          "TextureCoordinate": "0.5, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "2.702157, -0.51851, -0.51851",
+          "TextureCoordinate": "0.375, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "2.702157, 0, -0.51851",
+          "TextureCoordinate": "0.5, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "2.702157, 0, 0.51851",
+          "TextureCoordinate": "0.5, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "2.702157, -0.51851, 0.51851",
+          "TextureCoordinate": "0.375, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-0.470777, 0.140221, -0.931128",
+          "TextureCoordinate": "0.5, 0.25"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.750307, 0.140221, -0.931128",
+          "TextureCoordinate": "0.5, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.639765, -1.237126, -0.453549",
+          "TextureCoordinate": "0.375, 0.5"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.750307, 0.140221, 0.931128",
+          "TextureCoordinate": "0.5, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "2.702157, 0, 0.51851",
+          "TextureCoordinate": "0.5, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "2.702157, 0.51851, 0.51851",
+          "TextureCoordinate": "0.625, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "1.750307, 0.140221, 0.931128",
+          "TextureCoordinate": "0.5, 0.75"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-0.470777, 0.140221, 0.931128",
+          "TextureCoordinate": "0.5, 1"
+        },
+        {
+          "$type": "Microsoft.Xna.Framework.Graphics.VertexPositionTexture, MonoGame.Framework",
+          "Position": "-0.360235, -1.237126, 0.453549",
+          "TextureCoordinate": "0.375, 1"
+        }
+      ]
+    }
+  },
+  "Name": "weird_shape",
+  "Guid": "200d176a-5f02-770c-ec5b-42d7821a113d"
+}
